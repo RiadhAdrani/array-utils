@@ -1,9 +1,9 @@
 {
   "name": "@riadh-adrani/array-utils",
-  "description": "Javascript string utilities",
+  "description": "Javascript arrays utilities",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RiadhAdrani/str-utils"
+    "url": "https://github.com/RiadhAdrani/array-utils"
   },
   "version": "1.0.0",
   "type": "module",
