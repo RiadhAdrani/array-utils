@@ -76,5 +76,3 @@ export const shuffle = <T>(input: Array<T>): Array<T> => {
 
   return array;
 };
-
-export type Arrayable<T> = T | Array<T>;

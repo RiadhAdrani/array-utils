@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
-    "target": "ES2016",
+    "target": "ESNext",
     "baseUrl": "src",
     "useDefineForClassFields": true,
-    "module": "ES2020",
+    "module": "NodeNext",
     "lib": ["ESNext"],
-    "moduleResolution": "node16",
+    "moduleResolution": "NodeNext",
     "outDir": "dist",
     "strict": true,
     "declaration": true,
