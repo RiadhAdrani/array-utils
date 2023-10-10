@@ -2,4 +2,4 @@
 
 Javascript array utilities.
 
-Check documentation [`here`](https://riadhadrani.github.io/utility-js/arrays.html)
+Check documentation [`here`](https://riadhadrani.github.io/utils/arrays.html)
